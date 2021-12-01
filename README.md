@@ -1,6 +1,6 @@
 # Introduction
 
-This program allows you to read lines from the excel file. Each lines can be stored to the database.
+This program allows you to read lines from the excel file. Each lines would be stored to the database.
 
 # Usage
 
