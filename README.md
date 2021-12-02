@@ -13,6 +13,4 @@ npm install
 npm run start -- --file=res/M_GB16.9L-2_20211201_140029.xlsx
 ```
 
-# 주의 사항
-
-`chalk` 라이브러리를 타입스크립트에서 사용하려면 `npm install chalk@^4`를 실행해야 합니다. 5 버전은 ESM 문제로 동작하지 않습니다.
+To use a node module named `chalk` in the typescript environment, you need to install `chalk@^4` only. In case of `chalk@^5`, `ESM module` is not supported, so it couldn't use it.
